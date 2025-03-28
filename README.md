@@ -19,9 +19,9 @@ I'm **Sina Kiamehr** – a Harvard-educated researcher turned developer with a p
 ---
 
 ### 🌍 Languages & Life  
-- ![us](https://github.com/user-attachments/assets/deec6b7a-95e6-44b1-8caa-6d9fde9905bb) Native English speaker  
-- ![Iran](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/ir.png "Iran") Native Farsi (فارسی) Speaker  
-- ![es](https://github.com/user-attachments/assets/ce0af31c-3178-4ef3-acba-c9507deb03c0) Learning Spanish – ¡poco a poco!  
+####![us](https://github.com/user-attachments/assets/deec6b7a-95e6-44b1-8caa-6d9fde9905bb) Native English speaker  
+####![Iran](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/75/country-4x3/ir.png "Iran") Native Farsi (فارسی) Speaker  
+####![es](https://github.com/user-attachments/assets/ce0af31c-3178-4ef3-acba-c9507deb03c0) Learning Spanish – ¡poco a poco!  
 
 ---
 
