@@ -35,7 +35,7 @@ I'm **Sina Kiamehr** – a Harvard-educated researcher turned developer with a p
 ### 📫 Let’s Connect  
 - 📧 Email: sinakiamehr7@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sina-kiamehr)  
-- 🌐 [Portfolio (coming soon)](https://github.com/sinakiamehr)
+- 🌐 [Portfolio]([https://github.com/sinakiamehr](https://sina-kiamehr.vercel.app/))
 
 ---
 
